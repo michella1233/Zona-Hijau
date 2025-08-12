@@ -188,6 +188,7 @@ html{
   height: 30px;
   width: 110px;
   border-radius: 15px;
+  cursor: pointer;
 }
 
 .contactus-container{
